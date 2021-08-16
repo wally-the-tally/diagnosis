@@ -1,2 +1,2 @@
 # diagnosis
-Type you symptoms today
+Type your symptoms today
