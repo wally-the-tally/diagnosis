@@ -1,0 +1,23 @@
+//please put your input in alphabetical order
+{
+    "AIDS": {
+        "description": "This is an STD and attacks the immune system",
+        "symptoms": ["pain when swallowing", "nausea", "diarrhoea", "vomiting", "sores", "swelling", "ulcers",
+        "white tongue", "headaches", "fatigue", "no appetite", "pneumonia", "dry cough",
+        "weight loss", "night sweats"],
+        "treatment": ["HIV anti-viral"],
+        "cure": null,
+        "fatal": true
+    },
+
+    "Covid-19": {
+        "description": "This is a respiratory disease which infects and attacks the lungs",
+        "symptoms": ["fever", "cough", "fatigue", "no taste", "difficulty breathing", "lack of mobility", "chest pain"],
+        "treatment": {
+            "vaccines": ["Pfizer", "AstraZeneca", "moderna", "Johnson&Johnson"]
+        },
+        "cure": null,
+        "fatal": true
+    }
+    
+}
